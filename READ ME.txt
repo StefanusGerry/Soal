@@ -1,0 +1,22 @@
+note
+
+soal 1 :
+saya menggunakan node js:
+	1. jangan lupa di instal beberapa package
+		- npm init(enter saja sampai di bagian Author ..> boleh diisi nama)
+		- npm install express body-parser pg
+pada conn.js jangan lupa password dan namadb diganti
+database boleh diimport, jangan lupa password dan namadb diganti
+*in out by geoJson (sepertinya belum bisa)
+
+soal 1 dan 2 tidak bisa dikonek, jadi saya buatkan terpisah saja
+
+soal 2:
+
+jgn lupa instal xampp
+
+copas dalam htdocs
+
+untuk directory file js (layer_PHP.html), mohon disesuaikan 
+
+jika kedua file tersebut tidak dapat dibuka boleh dikontak kembali / show live
